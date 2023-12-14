@@ -385,3 +385,27 @@ Received Import Request.
 Start importing Assets/Ethan/Ethan.unity using Guid(73e65388d5ec0d94c932171d0f75c37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b731a99c2addb0a75b67858c07474f3d') in 0.003567 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 128.807341 seconds.
+  path: Assets/Jappe/Jappe.unity
+  artifactKey: Guid(c4152d3daeaf9554290e4d2b0d99db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jappe/Jappe.unity using Guid(c4152d3daeaf9554290e4d2b0d99db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69666f4f3bfe09eb05cb9312e2f495d5') in 0.000800 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 96.879268 seconds.
+  path: Assets/Jappe/Jappe.unity
+  artifactKey: Guid(c4152d3daeaf9554290e4d2b0d99db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jappe/Jappe.unity using Guid(c4152d3daeaf9554290e4d2b0d99db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18d80659d1d9f383b7634bb7f89ba82') in 0.000623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 10.717400 seconds.
+  path: Assets/Main + finished assets/Main.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main + finished assets/Main.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ab4037895b8c2e73061d8cfe51d883') in 0.000648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
